@@ -1,0 +1,21 @@
+<package>
+  <description brief="re_comm_core">
+
+     re_comm_core
+
+  </description>
+  <author>Alexander Perzylo</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/re_comm_core</url>
+  <depend package="rosjava_jni"/>
+  <depend package="re_msgs"/>
+  <depend package="re_srvs"/>
+
+  <export>
+    <java classpath="${prefix}/bin:${prefix}/lib/httpcomponents-client/commons-codec-1.4.jar:${prefix}/lib/httpcomponents-client/commons-logging-1.1.1.jar:${prefix}/lib/httpcomponents-client/httpclient-4.1.1.jar:${prefix}/lib/httpcomponents-client/httpclient-cache-4.1.1.jar:${prefix}/lib/httpcomponents-client/httpcore-4.1.jar:${prefix}/lib/httpcomponents-client/httpmime-4.1.1.jar:${prefix}/lib/jgrapht/jgrapht-jdk1.6.jar:${prefix}/lib/mysql/mysql-connector-java-5.1.13-bin.jar:${prefix}/lib/argo/argo-2.8.jar:${prefix}/lib/hermit/HermiT.jar:${prefix}/lib/vecmath/vecmath.jar"/>
+  </export>
+
+</package>
+
+

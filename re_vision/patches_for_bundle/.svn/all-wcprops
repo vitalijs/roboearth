@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/patches_for_bundle
+END
+Bundle2PMVS2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/patches_for_bundle/Bundle2PMVS2.cpp
+END
+Bundle2PMVS_cpp_patch.diff
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/patches_for_bundle/Bundle2PMVS_cpp_patch.diff
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/patches_for_bundle/install.sh
+END
+config-default.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/patches_for_bundle/config-default.sh
+END

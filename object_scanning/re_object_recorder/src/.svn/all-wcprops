@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/roboearth/repos/!svn/ver/2088/public/tags/latest/object_scanning/re_object_recorder/src
+END
+owldescriptioncreator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/roboearth/repos/!svn/ver/1246/public/tags/latest/object_scanning/re_object_recorder/src/owldescriptioncreator.cpp
+END
+comthread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/roboearth/repos/!svn/ver/2088/public/tags/latest/object_scanning/re_object_recorder/src/comthread.cpp
+END
+mainwindow.ui
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/roboearth/repos/!svn/ver/2088/public/tags/latest/object_scanning/re_object_recorder/src/mainwindow.ui
+END
+owldescriptioncreator.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/roboearth/repos/!svn/ver/1246/public/tags/latest/object_scanning/re_object_recorder/src/owldescriptioncreator.h
+END
+upload_object_model.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/roboearth/repos/!svn/ver/1500/public/tags/latest/object_scanning/re_object_recorder/src/upload_object_model.cpp
+END
+comthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/roboearth/repos/!svn/ver/2088/public/tags/latest/object_scanning/re_object_recorder/src/comthread.h
+END
+mainwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/roboearth/repos/!svn/ver/2088/public/tags/latest/object_scanning/re_object_recorder/src/mainwindow.cpp
+END
+uploadhelpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/roboearth/repos/!svn/ver/1500/public/tags/latest/object_scanning/re_object_recorder/src/uploadhelpers.h
+END
+re_visionmodelcreator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/roboearth/repos/!svn/ver/2088/public/tags/latest/object_scanning/re_object_recorder/src/re_visionmodelcreator.cpp
+END
+qminizip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/roboearth/repos/!svn/ver/1499/public/tags/latest/object_scanning/re_object_recorder/src/qminizip.cpp
+END
+mainwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/roboearth/repos/!svn/ver/1346/public/tags/latest/object_scanning/re_object_recorder/src/mainwindow.h
+END
+re_visionmodelcreator.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/roboearth/repos/!svn/ver/1334/public/tags/latest/object_scanning/re_object_recorder/src/re_visionmodelcreator.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/roboearth/repos/!svn/ver/1246/public/tags/latest/object_scanning/re_object_recorder/src/main.cpp
+END

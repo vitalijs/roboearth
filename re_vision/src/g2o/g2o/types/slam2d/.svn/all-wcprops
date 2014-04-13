@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/types/slam2d
+END
+vertex_point_xy.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/types/slam2d/vertex_point_xy.h
+END
+edge_se2_pointxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/types/slam2d/edge_se2_pointxy.h
+END
+edge_se2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/types/slam2d/edge_se2.cpp
+END
+edge_se2.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/types/slam2d/edge_se2.h
+END
+vertex_se2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/types/slam2d/vertex_se2.cpp
+END
+edge_se2_multi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/types/slam2d/edge_se2_multi.cpp
+END
+edge_se2_prior.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/types/slam2d/edge_se2_prior.cpp
+END
+vertex_se2.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/types/slam2d/vertex_se2.h
+END
+edge_se2_multi.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/types/slam2d/edge_se2_multi.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/types/slam2d/CMakeLists.txt
+END
+edge_se2_prior.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/types/slam2d/edge_se2_prior.h
+END
+edge_se2_pointxy_bearing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/types/slam2d/edge_se2_pointxy_bearing.cpp
+END
+edge_se2_pointxy_calib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/types/slam2d/edge_se2_pointxy_calib.cpp
+END
+edge_se2_pointxy_bearing.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/types/slam2d/edge_se2_pointxy_bearing.h
+END
+vertex_point_xy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/types/slam2d/vertex_point_xy.cpp
+END
+types_slam2d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/types/slam2d/types_slam2d.cpp
+END
+edge_se2_pointxy_calib.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/types/slam2d/edge_se2_pointxy_calib.h
+END
+edge_se2_pointxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/types/slam2d/edge_se2_pointxy.cpp
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/roboearth/repos/!svn/ver/2258/public/tags/latest/re_ontology/owl
+END
+joystick_drive.owl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_ontology/owl/joystick_drive.owl
+END
+vision_descriptors.owl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_ontology/owl/vision_descriptors.owl
+END
+serve_drink_new.owl.in
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/roboearth/repos/!svn/ver/2039/public/tags/latest/re_ontology/owl/serve_drink_new.owl.in
+END
+qmatrix.owl.in
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_ontology/owl/qmatrix.owl.in
+END
+cabinet_model.owl.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/roboearth/repos/!svn/ver/2258/public/tags/latest/re_ontology/owl/cabinet_model.owl.in
+END
+roboearth.owl.in
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/roboearth/repos/!svn/ver/2258/public/tags/latest/re_ontology/owl/roboearth.owl.in
+END
+object_model.owl.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_ontology/owl/object_model.owl.in
+END
+fmi_hospital_room_octomap.owl.in
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/roboearth/repos/!svn/ver/2039/public/tags/latest/re_ontology/owl/fmi_hospital_room_octomap.owl.in
+END
+amigo.owl.in
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_ontology/owl/amigo.owl.in
+END
+ias_hospital_room_octomap.owl.in
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/roboearth/repos/!svn/ver/2039/public/tags/latest/re_ontology/owl/ias_hospital_room_octomap.owl.in
+END
+set_a_table.owl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_ontology/owl/set_a_table.owl
+END
+fmi_hospital_room_2D_occupancy_map.owl.in
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/roboearth/repos/!svn/ver/2039/public/tags/latest/re_ontology/owl/fmi_hospital_room_2D_occupancy_map.owl.in
+END
+ias_hospital_room_2D_occupancy_map.owl.in
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_ontology/owl/ias_hospital_room_2D_occupancy_map.owl.in
+END
+environment_map.owl.in
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/roboearth/repos/!svn/ver/2039/public/tags/latest/re_ontology/owl/environment_map.owl.in
+END
+fmi_hospital_room_vslam_map.owl.in
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/roboearth/repos/!svn/ver/2039/public/tags/latest/re_ontology/owl/fmi_hospital_room_vslam_map.owl.in
+END
+ias_hospital_room_vslam_map.owl.in
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/roboearth/repos/!svn/ver/2039/public/tags/latest/re_ontology/owl/ias_hospital_room_vslam_map.owl.in
+END
+fmi_hospital_room.owl.in
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/roboearth/repos/!svn/ver/2039/public/tags/latest/re_ontology/owl/fmi_hospital_room.owl.in
+END
+ias_hospital_room.owl.in
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/roboearth/repos/!svn/ver/2258/public/tags/latest/re_ontology/owl/ias_hospital_room.owl.in
+END
+serve_drink.owl.in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_ontology/owl/serve_drink.owl.in
+END
+map_hospital_room.owl.in
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/roboearth/repos/!svn/ver/2039/public/tags/latest/re_ontology/owl/map_hospital_room.owl.in
+END
+ias_hospital_room_with_objects.owl.in
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/roboearth/repos/!svn/ver/2258/public/tags/latest/re_ontology/owl/ias_hospital_room_with_objects.owl.in
+END

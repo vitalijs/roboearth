@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/math_groups
+END
+se3quat.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/math_groups/se3quat.h
+END
+sbacam.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/math_groups/sbacam.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/math_groups/CMakeLists.txt
+END
+se2.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/math_groups/se2.h
+END
+se3_ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/math_groups/se3_ops.h
+END
+se3_ops.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/math_groups/se3_ops.hpp
+END
+sim3.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/math_groups/sim3.h
+END
+se3quat_gradients.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/math_groups/se3quat_gradients.cpp
+END

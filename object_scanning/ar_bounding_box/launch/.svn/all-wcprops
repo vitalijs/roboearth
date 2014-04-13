@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/roboearth/repos/!svn/ver/2088/public/tags/latest/object_scanning/ar_bounding_box/launch
+END
+ar_kinect.launch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/roboearth/repos/!svn/ver/1501/public/tags/latest/object_scanning/ar_bounding_box/launch/ar_kinect.launch
+END
+ar_kinect_turtlebot.launch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/roboearth/repos/!svn/ver/1915/public/tags/latest/object_scanning/ar_bounding_box/launch/ar_kinect_turtlebot.launch
+END

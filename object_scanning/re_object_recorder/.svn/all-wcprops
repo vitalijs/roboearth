@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/roboearth/repos/!svn/ver/2088/public/tags/latest/object_scanning/re_object_recorder
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/roboearth/repos/!svn/ver/2088/public/tags/latest/object_scanning/re_object_recorder/manifest.xml
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/roboearth/repos/!svn/ver/1246/public/tags/latest/object_scanning/re_object_recorder/mainpage.dox
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/roboearth/repos/!svn/ver/2088/public/tags/latest/object_scanning/re_object_recorder/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/roboearth/repos/!svn/ver/1246/public/tags/latest/object_scanning/re_object_recorder/Makefile
+END

@@ -1,0 +1,21 @@
+<package>
+  <description brief="re_wire_bridge">
+
+     re_wire_bridge
+
+  </description>
+  <author>Vitalij Stepanov</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/re_wire_bridge</url>
+  <depend package="roscpp"/>
+  <depend package="wire_msgs"/>
+  <depend package="problib"/>
+  <depend package="re_kinect_object_detector"/> 
+  <depend package="re_msgs"/> 
+  
+  <build_depend>message_generation</build_depend>
+  <run_depend>message_runtime</run_depend>
+</package>
+
+

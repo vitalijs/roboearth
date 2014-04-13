@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/types/icp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/types/icp/CMakeLists.txt
+END
+types_icp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/types/icp/types_icp.cpp
+END
+types_icp.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/types/icp/types_icp.h
+END

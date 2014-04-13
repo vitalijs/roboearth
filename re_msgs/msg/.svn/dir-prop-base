@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 68
+bin
+build
+msg_gen
+srv_gen
+java
+oct
+lisp
+recipe*
+.project
+.classpath
+
+END

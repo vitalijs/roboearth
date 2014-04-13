@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core
+END
+estimate_propagator.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/estimate_propagator.h
+END
+graph_optimizer_sparse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/graph_optimizer_sparse.cpp
+END
+base_unary_edge.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/base_unary_edge.h
+END
+matrix_structure.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/matrix_structure.cpp
+END
+hyper_dijkstra.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/hyper_dijkstra.h
+END
+block_solver.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/block_solver.h
+END
+marginal_covariance_cholesky.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/marginal_covariance_cholesky.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/CMakeLists.txt
+END
+batch_stats.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/batch_stats.cpp
+END
+sparse_block_matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/sparse_block_matrix.h
+END
+solver_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/solver_factory.cpp
+END
+base_edge.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/base_edge.h
+END
+hyper_graph_action.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/hyper_graph_action.cpp
+END
+optimizable_graph.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/optimizable_graph.h
+END
+base_binary_edge.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/base_binary_edge.h
+END
+hyper_graph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/hyper_graph.cpp
+END
+estimate_propagator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/estimate_propagator.cpp
+END
+factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/factory.h
+END
+base_vertex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/base_vertex.hpp
+END
+base_multi_edge.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/base_multi_edge.h
+END
+solver.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/solver.h
+END
+base_unary_edge.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/base_unary_edge.hpp
+END
+hyper_dijkstra.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/hyper_dijkstra.cpp
+END
+solver_property.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/solver_property.h
+END
+marginal_covariance_cholesky.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/marginal_covariance_cholesky.cpp
+END
+graph_optimizer_sparse.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/graph_optimizer_sparse.h
+END
+openmp_mutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/openmp_mutex.h
+END
+creators.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/creators.h
+END
+matrix_structure.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/matrix_structure.h
+END
+block_solver.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/block_solver.hpp
+END
+sparse_block_matrix_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/sparse_block_matrix_test.cpp
+END
+optimizable_graph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/optimizable_graph.cpp
+END
+sparse_block_matrix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/sparse_block_matrix.hpp
+END
+structure_only_solver.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/structure_only_solver.h
+END
+batch_stats.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/batch_stats.h
+END
+solver_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/solver_factory.h
+END
+factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/factory.cpp
+END
+base_binary_edge.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/base_binary_edge.hpp
+END
+linear_solver.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/linear_solver.h
+END
+hyper_graph_action.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/hyper_graph_action.h
+END
+solver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/solver.cpp
+END
+base_vertex.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/base_vertex.h
+END
+hyper_graph.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/hyper_graph.h
+END
+base_multi_edge.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/core/base_multi_edge.hpp
+END

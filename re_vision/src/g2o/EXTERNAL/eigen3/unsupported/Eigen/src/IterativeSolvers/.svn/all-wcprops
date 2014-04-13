@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/unsupported/Eigen/src/IterativeSolvers
+END
+ConstrainedConjGrad.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/unsupported/Eigen/src/IterativeSolvers/ConstrainedConjGrad.h
+END
+IterationController.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/unsupported/Eigen/src/IterativeSolvers/IterationController.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/unsupported/Eigen/src/IterativeSolvers/CMakeLists.txt
+END

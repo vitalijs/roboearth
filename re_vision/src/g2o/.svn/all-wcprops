@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o
+END
+install-external.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/install-external.sh
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/config.h.in
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/README.txt
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/CMakeLists.txt
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3
+END
+eigen3.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/eigen3.pc.in
+END
+CTestCustom.cmake.in
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/CTestCustom.cmake.in
+END
+COPYING.LGPL
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/COPYING.LGPL
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/INSTALL
+END
+signature_of_eigen3_matrix_library
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/signature_of_eigen3_matrix_library
+END
+CTestConfig.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/CTestConfig.cmake
+END
+COPYING.GPL
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/COPYING.GPL
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/CMakeLists.txt
+END

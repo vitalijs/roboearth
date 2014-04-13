@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_vision/src/3rdparty/DUtils
+END
+Profiler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/src/3rdparty/DUtils/Profiler.cpp
+END
+Timestamp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_vision/src/3rdparty/DUtils/Timestamp.cpp
+END
+BinaryFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_vision/src/3rdparty/DUtils/BinaryFile.cpp
+END
+LineFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/src/3rdparty/DUtils/LineFile.cpp
+END
+FileFunctions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_vision/src/3rdparty/DUtils/FileFunctions.cpp
+END
+StringFunctions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/src/3rdparty/DUtils/StringFunctions.cpp
+END
+Random.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/src/3rdparty/DUtils/Random.cpp
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/src/3rdparty/DUtils/LICENSE
+END

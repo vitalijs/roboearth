@@ -1,0 +1,2 @@
+DIR="../../../"
+c++ -Wall -W -gdwarf-2 -msse4 -march=native -I$DIR -I$DIR/build  -I$DIR/EXTERNAL/eigen3  -I/usr/include/suitesparse  -I../../types/sba/ -L$DIR/lib ba_demo.cpp -o ba_demoPTAM ../../types/sba/types_sba.cpp ../../types/sba/types_six_dof_expmap.cpp  -rdynamic -lg2o_core   -lg2o_solver_cholmod   -lcholmod -lamd   -lg2o_stuff  -Wl,-rpath,$DIR/lib

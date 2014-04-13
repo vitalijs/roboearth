@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/unsupported/Eigen/src/NonLinearOptimization
+END
+chkder.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/unsupported/Eigen/src/NonLinearOptimization/chkder.h
+END
+dogleg.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/unsupported/Eigen/src/NonLinearOptimization/dogleg.h
+END
+HybridNonLinearSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/unsupported/Eigen/src/NonLinearOptimization/HybridNonLinearSolver.h
+END
+rwupdt.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/unsupported/Eigen/src/NonLinearOptimization/rwupdt.h
+END
+qrsolv.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/unsupported/Eigen/src/NonLinearOptimization/qrsolv.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/unsupported/Eigen/src/NonLinearOptimization/CMakeLists.txt
+END
+fdjac1.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/unsupported/Eigen/src/NonLinearOptimization/fdjac1.h
+END
+r1mpyq.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/unsupported/Eigen/src/NonLinearOptimization/r1mpyq.h
+END
+LevenbergMarquardt.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/unsupported/Eigen/src/NonLinearOptimization/LevenbergMarquardt.h
+END
+covar.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/unsupported/Eigen/src/NonLinearOptimization/covar.h
+END
+lmpar.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/unsupported/Eigen/src/NonLinearOptimization/lmpar.h
+END
+r1updt.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/unsupported/Eigen/src/NonLinearOptimization/r1updt.h
+END

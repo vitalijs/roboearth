@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/vitalij/ros/stacks/roboearth/object_scanning/re_object_recorder/build/devel/setup.sh

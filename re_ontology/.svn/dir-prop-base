@@ -1,0 +1,19 @@
+K 10
+svn:ignore
+V 68
+bin
+build
+msg_gen
+srv_gen
+java
+oct
+lisp
+recipe*
+.project
+.classpath
+
+K 13
+svn:mergeinfo
+V 36
+/ros_roboearth/re_ontology:1246-2257
+END

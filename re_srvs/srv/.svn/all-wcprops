@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/roboearth/repos/!svn/ver/1955/public/tags/latest/re_srvs/srv
+END
+DelEnvironment.srv
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/DelEnvironment.srv
+END
+DelActionRecipe.srv
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/DelActionRecipe.srv
+END
+DelObject.srv
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/DelObject.srv
+END
+GetActionRecipe.srv
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/GetActionRecipe.srv
+END
+GetObject.srv
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/GetObject.srv
+END
+UpdateEnvironment.srv
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/UpdateEnvironment.srv
+END
+UpdateActionRecipe.srv
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/UpdateActionRecipe.srv
+END
+UpdateObject.srv
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/UpdateObject.srv
+END
+GetEnvironmentBinaryFile.srv
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/GetEnvironmentBinaryFile.srv
+END
+Request2DMap.srv
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/roboearth/repos/!svn/ver/1955/public/tags/latest/re_srvs/srv/Request2DMap.srv
+END
+SearchObjects.srv
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/SearchObjects.srv
+END
+QueryObjects.srv
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/QueryObjects.srv
+END
+SetActionRecipe.srv
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/SetActionRecipe.srv
+END
+SetObject.srv
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/SetObject.srv
+END
+SetEnvironmentBinaryFile.srv
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/SetEnvironmentBinaryFile.srv
+END
+VisualLocation.srv
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/VisualLocation.srv
+END
+DelEnvironmentBinaryFile.srv
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/DelEnvironmentBinaryFile.srv
+END
+DelObjectBinaryFile.srv
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/DelObjectBinaryFile.srv
+END
+GetEnvironment.srv
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/GetEnvironment.srv
+END
+getNextPose.srv
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/getNextPose.srv
+END
+RequestProj2DMap.srv
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/roboearth/repos/!svn/ver/1955/public/tags/latest/re_srvs/srv/RequestProj2DMap.srv
+END
+AddWorldModelObject.srv
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/roboearth/repos/!svn/ver/1955/public/tags/latest/re_srvs/srv/AddWorldModelObject.srv
+END
+RoboEarthExportCopModel.srv
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/RoboEarthExportCopModel.srv
+END
+GetObjectBinaryFile.srv
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/GetObjectBinaryFile.srv
+END
+UpdateEnvironmentBinaryFile.srv
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/UpdateEnvironmentBinaryFile.srv
+END
+SearchEnvironments.srv
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/SearchEnvironments.srv
+END
+QueryEnvironments.srv
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/QueryEnvironments.srv
+END
+SearchActionRecipes.srv
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/SearchActionRecipes.srv
+END
+RoboEarthRetrieveCopModel.srv
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/RoboEarthRetrieveCopModel.srv
+END
+QueryActionRecipes.srv
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/QueryActionRecipes.srv
+END
+UpdateObjectBinaryFile.srv
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/UpdateObjectBinaryFile.srv
+END
+SetEnvironment.srv
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/SetEnvironment.srv
+END
+LoadVslamMap.srv
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/roboearth/repos/!svn/ver/1955/public/tags/latest/re_srvs/srv/LoadVslamMap.srv
+END
+DetectObjects.srv
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/roboearth/repos/!svn/ver/1955/public/tags/latest/re_srvs/srv/DetectObjects.srv
+END
+SetObjectBinaryFile.srv
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/srv/SetObjectBinaryFile.srv
+END

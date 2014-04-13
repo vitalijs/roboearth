@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 23
+build
+bin
+lib
+srv_gen
+
+
+K 13
+svn:mergeinfo
+V 34
+/ros_roboearth/re_vision:1246-2090
+END

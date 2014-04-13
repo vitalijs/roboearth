@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/roboearth/repos/!svn/ver/2258/public/tags/latest/re_comm_core/src/roboearth/wp5/module
+END
+ActionRecipeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/roboearth/repos/!svn/ver/2258/public/tags/latest/re_comm_core/src/roboearth/wp5/module/ActionRecipeHandler.java
+END
+ObjectModelHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/roboearth/repos/!svn/ver/2258/public/tags/latest/re_comm_core/src/roboearth/wp5/module/ObjectModelHandler.java
+END
+MapExtractorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_comm_core/src/roboearth/wp5/module/MapExtractorHandler.java
+END
+AbstractHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_comm_core/src/roboearth/wp5/module/AbstractHandler.java
+END
+BinaryFileHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_comm_core/src/roboearth/wp5/module/BinaryFileHandler.java
+END
+EnvironmentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/roboearth/repos/!svn/ver/2258/public/tags/latest/re_comm_core/src/roboearth/wp5/module/EnvironmentHandler.java
+END

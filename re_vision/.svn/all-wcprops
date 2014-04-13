@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/roboearth/repos/!svn/ver/2093/public/tags/latest/re_vision
+END
+gazebo.launch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/gazebo.launch
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/manifest.xml
+END
+test.launch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/test.launch
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_vision/mainpage.dox
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/Makefile
+END

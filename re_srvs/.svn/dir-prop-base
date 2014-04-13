@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 15
+build
+srv_gen
+
+
+K 13
+svn:mergeinfo
+V 57
+/ros_roboearth/re_srvs:1246-1333,1336-1345,1397,1435-2042
+END

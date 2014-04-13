@@ -1,0 +1,9 @@
+DIR="../../../"
+
+c++ -Wall -W -gdwarf-2 -march=native \
+    -I$DIR -I$DIR/build -I$DIR/EXTERNAL/eigen3 \
+    -I/usr/include/suitesparse -I$DIR../PTAM -L$DIR/lib \
+     ba_demoPTAM.cpp tokenizer.cpp $DIR../PTAM/types_g2o_ptam.cc \
+    -o ba_demoPTAM \
+    -rdynamic -lg2o_core -lg2o_solver_cholmod -lcholmod -lamd -lg2o_stuff \
+    -Wl,-rpath,$DIR/lib

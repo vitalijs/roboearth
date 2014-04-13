@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/roboearth/repos/!svn/ver/2088/public/tags/latest/object_scanning/ar_bounding_box/src
+END
+Utils3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/roboearth/repos/!svn/ver/1453/public/tags/latest/object_scanning/ar_bounding_box/src/Utils3D.h
+END
+ar_kinect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/roboearth/repos/!svn/ver/2088/public/tags/latest/object_scanning/ar_bounding_box/src/ar_kinect.cpp
+END
+ar_kinect_extractobject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/roboearth/repos/!svn/ver/2088/public/tags/latest/object_scanning/ar_bounding_box/src/ar_kinect_extractobject.cpp
+END
+CoordinateFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/roboearth/repos/!svn/ver/2088/public/tags/latest/object_scanning/ar_bounding_box/src/CoordinateFrame.cpp
+END
+object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/roboearth/repos/!svn/ver/1246/public/tags/latest/object_scanning/ar_bounding_box/src/object.cpp
+END
+CoordinateFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/roboearth/repos/!svn/ver/2088/public/tags/latest/object_scanning/ar_bounding_box/src/CoordinateFrame.h
+END
+Utils3D.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/roboearth/repos/!svn/ver/1453/public/tags/latest/object_scanning/ar_bounding_box/src/Utils3D.cpp
+END

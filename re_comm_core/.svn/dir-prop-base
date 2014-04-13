@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 26
+bin
+build
+msg_gen
+srv_gen
+
+K 13
+svn:mergeinfo
+V 62
+/ros_roboearth/re_comm_core:1246-1333,1336-1345,1397,2043-2257
+END

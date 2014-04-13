@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/vitalij/ros/stacks/roboearth/object_scanning/ar_bounding_box/build/devel/setup.sh

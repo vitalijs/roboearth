@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/roboearth/repos/!svn/ver/1955/public/tags/latest/re_msgs/msg
+END
+File.msg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_msgs/msg/File.msg
+END
+SeenObjectArray.msg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_msgs/msg/SeenObjectArray.msg
+END
+Pixel.msg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_msgs/msg/Pixel.msg
+END
+SeenObject.msg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_msgs/msg/SeenObject.msg
+END
+RosFile.msg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/roboearth/repos/!svn/ver/1955/public/tags/latest/re_msgs/msg/RosFile.msg
+END
+StringArray.msg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_msgs/msg/StringArray.msg
+END
+DetectedObject.msg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/roboearth/repos/!svn/ver/1955/public/tags/latest/re_msgs/msg/DetectedObject.msg
+END
+Pose2DStamped.msg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_msgs/msg/Pose2DStamped.msg
+END

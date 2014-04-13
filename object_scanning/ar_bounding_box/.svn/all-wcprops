@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/roboearth/repos/!svn/ver/2088/public/tags/latest/object_scanning/ar_bounding_box
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/roboearth/repos/!svn/ver/1270/public/tags/latest/object_scanning/ar_bounding_box/manifest.xml
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/roboearth/repos/!svn/ver/1246/public/tags/latest/object_scanning/ar_bounding_box/mainpage.dox
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/roboearth/repos/!svn/ver/2088/public/tags/latest/object_scanning/ar_bounding_box/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/roboearth/repos/!svn/ver/1246/public/tags/latest/object_scanning/ar_bounding_box/Makefile
+END
+ar_bounding_box.vcg
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/roboearth/repos/!svn/ver/1246/public/tags/latest/object_scanning/ar_bounding_box/ar_bounding_box.vcg
+END

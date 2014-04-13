@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/types/sim3
+END
+types_seven_dof_expmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/types/sim3/types_seven_dof_expmap.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/types/sim3/CMakeLists.txt
+END
+types_seven_dof_expmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/types/sim3/types_seven_dof_expmap.cpp
+END

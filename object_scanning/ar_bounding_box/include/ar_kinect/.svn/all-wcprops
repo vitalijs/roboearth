@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/roboearth/repos/!svn/ver/1435/public/tags/latest/object_scanning/ar_bounding_box/include/ar_kinect
+END
+ar_kinect.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/roboearth/repos/!svn/ver/1435/public/tags/latest/object_scanning/ar_bounding_box/include/ar_kinect/ar_kinect.h
+END
+object.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/roboearth/repos/!svn/ver/1246/public/tags/latest/object_scanning/ar_bounding_box/include/ar_kinect/object.h
+END

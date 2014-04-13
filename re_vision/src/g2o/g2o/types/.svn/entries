@@ -1,0 +1,77 @@
+10
+
+dir
+2419
+https://ipvs.informatik.uni-stuttgart.de/roboearth/repos/public/tags/latest/re_vision/src/g2o/g2o/types
+https://ipvs.informatik.uni-stuttgart.de/roboearth/repos
+
+
+
+2012-09-21T15:47:29.797941Z
+2088
+marcodl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+da181efc-6b0f-e0dd-8bea-de2c2b703b0e
+
+slam3d
+dir
+
+sba
+dir
+
+icp
+dir
+
+sim3
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2013-10-06T20:11:21.751583Z
+fee6206344200cbb95f4cb9cadbc6c01
+2012-09-21T15:47:29.797941Z
+2088
+marcodl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+136
+
+slam2d
+dir
+

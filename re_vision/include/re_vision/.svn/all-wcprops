@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/roboearth/repos/!svn/ver/2093/public/tags/latest/re_vision/include/re_vision
+END
+Math.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/include/re_vision/Math.hpp
+END
+Transformations.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/include/re_vision/Transformations.h
+END
+Geometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/include/re_vision/Geometry.h
+END
+Drawing.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/include/re_vision/Drawing.h
+END
+PixelPointFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/include/re_vision/PixelPointFile.h
+END
+SurfSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/include/re_vision/SurfSet.h
+END
+DUtilsCV.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/include/re_vision/DUtilsCV.h
+END
+PMVSCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/include/re_vision/PMVSCamera.h
+END
+PatchFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/roboearth/repos/!svn/ver/2093/public/tags/latest/re_vision/include/re_vision/PatchFile.h
+END
+StringFunctions.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/include/re_vision/StringFunctions.h
+END
+DException.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/include/re_vision/DException.h
+END
+STL.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/include/re_vision/STL.h
+END
+dirent_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/include/re_vision/dirent_win.h
+END
+Timestamp.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/include/re_vision/Timestamp.h
+END
+PLYFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/include/re_vision/PLYFile.h
+END
+DUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/include/re_vision/DUtils.h
+END
+Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/include/re_vision/Types.h
+END
+IO.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/include/re_vision/IO.h
+END
+FileModes.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/include/re_vision/FileModes.h
+END
+FileFunctions.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/include/re_vision/FileFunctions.h
+END
+DVision.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/include/re_vision/DVision.h
+END
+Random.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/include/re_vision/Random.h
+END
+BundleCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/include/re_vision/BundleCamera.h
+END
+Profiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/include/re_vision/Profiler.h
+END
+Matches.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/roboearth/repos/!svn/ver/2093/public/tags/latest/re_vision/include/re_vision/Matches.h
+END
+GUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_vision/include/re_vision/GUI.h
+END
+BinaryFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/include/re_vision/BinaryFile.h
+END
+LineFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/include/re_vision/LineFile.h
+END

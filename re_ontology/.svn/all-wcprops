@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/roboearth/repos/!svn/ver/2258/public/tags/latest/re_ontology
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_ontology/mainpage.dox
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_ontology/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_ontology/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_ontology/README
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/roboearth/repos/!svn/ver/2258/public/tags/latest/re_ontology/manifest.xml
+END

@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 27
+bin
+build
+msg_gen
+srv_gen
+
+
+K 13
+svn:mergeinfo
+V 68
+/ros_roboearth/re_2dmap_extractor:1246-1333,1336-1345,1397,1955-2042
+END

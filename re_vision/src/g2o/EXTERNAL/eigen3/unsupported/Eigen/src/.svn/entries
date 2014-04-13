@@ -1,0 +1,95 @@
+10
+
+dir
+2419
+https://ipvs.informatik.uni-stuttgart.de/roboearth/repos/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/unsupported/Eigen/src
+https://ipvs.informatik.uni-stuttgart.de/roboearth/repos
+
+
+
+2012-09-21T15:47:29.797941Z
+2088
+marcodl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+da181efc-6b0f-e0dd-8bea-de2c2b703b0e
+
+NumericalDiff
+dir
+
+IterativeSolvers
+dir
+
+NonLinearOptimization
+dir
+
+MatrixFunctions
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2013-10-06T20:11:20.071574Z
+0fbe872d844071404785b679688b6d51
+2012-09-21T15:47:29.797941Z
+2088
+marcodl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+334
+
+Skyline
+dir
+
+BVH
+dir
+
+FFT
+dir
+
+AutoDiff
+dir
+
+SparseExtra
+dir
+
+MoreVectorization
+dir
+
+Polynomials
+dir
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/roboearth/repos/!svn/ver/2258/public/tags/latest/re_comm_core/src/roboearth/wp5/conn
+END
+REInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/roboearth/repos/!svn/ver/2258/public/tags/latest/re_comm_core/src/roboearth/wp5/conn/REInterface.java
+END
+REConnectionMySQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/roboearth/repos/!svn/ver/2258/public/tags/latest/re_comm_core/src/roboearth/wp5/conn/REConnectionMySQL.java
+END
+REConnectionHadoop.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/roboearth/repos/!svn/ver/2258/public/tags/latest/re_comm_core/src/roboearth/wp5/conn/REConnectionHadoop.java
+END

@@ -1,0 +1,1212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>re_vision-RelWithDebInfo@re_vision</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.cdt.make.core.makeBuilder</name>
+			<triggers>clean,full,incremental,</triggers>
+			<arguments>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.cleanBuildTarget</key>
+					<value>clean</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.enableCleanBuild</key>
+					<value>true</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.append_environment</key>
+					<value>true</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.stopOnError</key>
+					<value>true</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.enabledIncrementalBuild</key>
+					<value>true</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.command</key>
+					<value>/usr/bin/make</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.contents</key>
+					<value>org.eclipse.cdt.make.core.activeConfigSettings</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.target.inc</key>
+					<value>all</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.arguments</key>
+					<value></value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.buildLocation</key>
+					<value>/home/vitalij/ros/stacks/roboearth/re_vision</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.useDefaultBuildCmd</key>
+					<value>false</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.environment</key>
+					<value>VERBOSE=1|ROS_ROOT=/opt/ros/groovy/share/ros|ROS_PACKAGE_PATH=/home/vitalij/ros/knowrob_addons:/home/vitalij/ros/stacks/knowrob:/home/vitalij/ros/pkgs/tum-ros-pkg/knowledge:/home/vitalij/ros/stacks/ccny_vision:/home/vitalij/ros/stacks/roboearth:/opt/ros/groovy/share:/opt/ros/groovy/stacks|PYTHONPATH=/opt/ros/groovy/lib/python2.7/dist-packages|PATH=/opt/ros/groovy/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games|LD_LIBRARY_PATH=/opt/ros/groovy/lib|PKG_CONFIG_PATH=/opt/ros/groovy/lib/pkgconfig|CMAKE_PREFIX_PATH=/opt/ros/groovy|</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.enableFullBuild</key>
+					<value>true</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.target.auto</key>
+					<value>all</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.enableAutoBuild</key>
+					<value>false</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.target.clean</key>
+					<value>clean</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.fullBuildTarget</key>
+					<value>all</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.buildArguments</key>
+					<value></value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.location</key>
+					<value>/home/vitalij/ros/stacks/roboearth/re_vision</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.autoBuildTarget</key>
+					<value>all</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.core.errorOutputParser</key>
+					<value>org.eclipse.cdt.core.MakeErrorParser;org.eclipse.cdt.core.GCCErrorParser;org.eclipse.cdt.core.GASErrorParser;org.eclipse.cdt.core.GLDErrorParser;</value>
+				</dictionary>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.cdt.make.core.ScannerConfigBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.cdt.core.ccnature</nature>
+		<nature>org.eclipse.cdt.make.core.makeNature</nature>
+		<nature>org.eclipse.cdt.make.core.ScannerConfigNature</nature>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>[Subprojects]</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Subprojects]/gtest</name>
+			<type>2</type>
+			<location>/usr/src/gtest</location>
+		</link>
+		<link>
+			<name>[Targets]</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DUtils</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DUtils/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DUtils/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DUtils/Source Files/BinaryFile.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/3rdparty/DUtils/BinaryFile.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DUtils/Source Files/LineFile.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/3rdparty/DUtils/LineFile.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DUtils/Source Files/Random.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/3rdparty/DUtils/Random.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DUtils/Source Files/FileFunctions.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/3rdparty/DUtils/FileFunctions.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DUtils/Source Files/Profiler.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/3rdparty/DUtils/Profiler.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DUtils/Source Files/Timestamp.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/3rdparty/DUtils/Timestamp.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DUtils/Source Files/StringFunctions.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/3rdparty/DUtils/StringFunctions.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DUtils/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DUtils/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DUtils/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DUtilsCV</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DUtilsCV/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DUtilsCV/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DUtilsCV/Source Files/Drawing.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/3rdparty/DUtilsCV/Drawing.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DUtilsCV/Source Files/GUI.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/3rdparty/DUtilsCV/GUI.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DUtilsCV/Source Files/Transformations.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/3rdparty/DUtilsCV/Transformations.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DUtilsCV/Source Files/Geometry.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/3rdparty/DUtilsCV/Geometry.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DUtilsCV/Source Files/IO.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/3rdparty/DUtilsCV/IO.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DUtilsCV/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DUtilsCV/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DUtilsCV/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DVision</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DVision/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DVision/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DVision/Source Files/PatchFile.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/3rdparty/DVision/PatchFile.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DVision/Source Files/PMVSCamera.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/3rdparty/DVision/PMVSCamera.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DVision/Source Files/BundleCamera.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/3rdparty/DVision/BundleCamera.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DVision/Source Files/PixelPointFile.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/3rdparty/DVision/PixelPointFile.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DVision/Source Files/SurfSet.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/3rdparty/DVision/SurfSet.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DVision/Source Files/Matches.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/3rdparty/DVision/Matches.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DVision/Source Files/PLYFile.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/3rdparty/DVision/PLYFile.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DVision/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DVision/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] DVision/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] ObjectDetector</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] ObjectDetector/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] ObjectDetector/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] ObjectDetector/Source Files/ObjectDetector.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/ObjectDetector.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] ObjectDetector/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] ObjectDetector/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] ObjectDetector/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] ObjectDetectorDummy</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] ObjectDetectorDummy/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] ObjectDetectorDummy/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] ObjectDetectorDummy/Source Files/ObjectDetectorDummy.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/ObjectDetectorDummy.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] ObjectDetectorDummy/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] ObjectDetectorDummy/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] ObjectDetectorDummy/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ObjectDetectorFunctions</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ObjectDetectorFunctions/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ObjectDetectorFunctions/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ObjectDetectorFunctions/Source Files/ObjectDetectorClass.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/ObjectDetectorClass.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ObjectDetectorFunctions/Source Files/ObjectDetectorProvider.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/ObjectDetectorProvider.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ObjectDetectorFunctions/Source Files/CameraBridge.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/CameraBridge.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ObjectDetectorFunctions/Source Files/CameraBridgeFactory.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/CameraBridgeFactory.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ObjectDetectorFunctions/Source Files/MetaFile.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/MetaFile.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ObjectDetectorFunctions/Source Files/ObjectModel.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/ObjectModel.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ObjectDetectorFunctions/Source Files/PlanarVisualizationModel.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/PlanarVisualizationModel.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ObjectDetectorFunctions/Source Files/PointCloudVisualizationModel.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/PointCloudVisualizationModel.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ObjectDetectorFunctions/Source Files/ObjectDetectorMethod.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/ObjectDetectorMethod.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ObjectDetectorFunctions/Source Files/SurfPlanarDetector.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/SurfPlanarDetector.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ObjectDetectorFunctions/Source Files/Surf3DDetector.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/Surf3DDetector.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ObjectDetectorFunctions/Source Files/VisualizationManager.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/VisualizationManager.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ObjectDetectorFunctions/Source Files/epnp.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/3rdparty/epnp/epnp.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ObjectDetectorFunctions/Source Files/debug.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/debug.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ObjectDetectorFunctions/Source Files/NonLinearLS.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/NonLinearLS.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ObjectDetectorFunctions/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ObjectDetectorFunctions/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] ObjectDetectorFunctions/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] TestObjectDetector</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] TestObjectDetector/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] TestObjectDetector/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] TestObjectDetector/Source Files/TestObjectDetector.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/TestObjectDetector.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] TestObjectDetector/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] TestObjectDetector/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] TestObjectDetector/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] changeReferenceSystem</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] changeReferenceSystem/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] changeReferenceSystem/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] changeReferenceSystem/Source Files/changeReferenceSystem.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/PointCloudModelCreator/changeReferenceSystem.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] changeReferenceSystem/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] changeReferenceSystem/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] changeReferenceSystem/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] changeScaleFactor</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] changeScaleFactor/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] changeScaleFactor/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] changeScaleFactor/Source Files/changeScaleFactor.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/ModelTools/changeScaleFactor.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] changeScaleFactor/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] changeScaleFactor/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] changeScaleFactor/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] computePixelPoints</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] computePixelPoints/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] computePixelPoints/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] computePixelPoints/Source Files/computePixelPoints.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/PointCloudModelCreator/computePixelPoints.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] computePixelPoints/Source Files/Mask.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/PointCloudModelCreator/Mask.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] computePixelPoints/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] computePixelPoints/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] computePixelPoints/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] computePixelPoints2</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] computePixelPoints2/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] computePixelPoints2/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] computePixelPoints2/Source Files/computePixelPoints2.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/PointCloudModelCreator/computePixelPoints2.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] computePixelPoints2/Source Files/Mask.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/PointCloudModelCreator/Mask.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] computePixelPoints2/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] computePixelPoints2/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] computePixelPoints2/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] createCubeModel</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] createCubeModel/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] createCubeModel/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] createCubeModel/Source Files/createCubeModel.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/CubeModelCreator/createCubeModel.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] createCubeModel/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] createCubeModel/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] createCubeModel/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] createPlanarModel</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] createPlanarModel/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] createPlanarModel/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] createPlanarModel/Source Files/createPlanarModel.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/PlanarModelCreator/createPlanarModel.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] createPlanarModel/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] createPlanarModel/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] createPlanarModel/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] createPlyPoints</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] createPlyPoints/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] createPlyPoints/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] createPlyPoints/Source Files/createPlyPoints.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/PointCloudModelCreator/createPlyPoints.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] createPlyPoints/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] createPlyPoints/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] createPlyPoints/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] createPointCloudModel</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] createPointCloudModel/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] createPointCloudModel/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] createPointCloudModel/Source Files/createPointCloudModel.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/PointCloudModelCreator/createPointCloudModel.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] createPointCloudModel/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] createPointCloudModel/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] createPointCloudModel/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] extractOutlineFromImages</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] extractOutlineFromImages/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] extractOutlineFromImages/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] extractOutlineFromImages/Source Files/extractOutlineFromImages.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/PointCloudModelCreator/extractOutlineFromImages.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] extractOutlineFromImages/Source Files/Mask.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/PointCloudModelCreator/Mask.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] extractOutlineFromImages/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] extractOutlineFromImages/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] extractOutlineFromImages/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] extractSurf</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] extractSurf/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] extractSurf/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] extractSurf/Source Files/extractSurf.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/PointCloudModelCreator/extractSurf.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] extractSurf/Source Files/Mask.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/PointCloudModelCreator/Mask.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] extractSurf/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] extractSurf/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] extractSurf/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] generateMeta</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] generateMeta/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] generateMeta/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] generateMeta/Source Files/generateMeta.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/PointCloudModelCreator/generateMeta.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] generateMeta/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] generateMeta/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] generateMeta/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] getModelInfo</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] getModelInfo/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] getModelInfo/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] getModelInfo/Source Files/getModelInfo.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/ModelTools/getModelInfo.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] getModelInfo/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] getModelInfo/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] getModelInfo/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] loadModelIntoVSlam</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] loadModelIntoVSlam/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] loadModelIntoVSlam/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] loadModelIntoVSlam/Source Files/loadModelIntoVSlam.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/ModelTools/loadModelIntoVSlam.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] loadModelIntoVSlam/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] loadModelIntoVSlam/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] loadModelIntoVSlam/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] removeBackgroundPoints</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] removeBackgroundPoints/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] removeBackgroundPoints/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] removeBackgroundPoints/Source Files/removeBackgroundPoints.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/PointCloudModelCreator/removeBackgroundPoints.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] removeBackgroundPoints/Source Files/Mask.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/PointCloudModelCreator/Mask.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] removeBackgroundPoints/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] removeBackgroundPoints/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] removeBackgroundPoints/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] removeModelFace</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] removeModelFace/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] removeModelFace/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] removeModelFace/Source Files/removeModelFace.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/ModelTools/removeModelFace.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] removeModelFace/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] removeModelFace/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] removeModelFace/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] showModel</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] showModel/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] showModel/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] showModel/Source Files/showModel.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/ModelTools/showModel.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] showModel/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] showModel/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] showModel/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] testModel</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] testModel/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] testModel/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] testModel/Source Files/testModel.cpp</name>
+			<type>1</type>
+			<location>/home/vitalij/ros/stacks/roboearth/re_vision/src/ModelTools/testModel.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] testModel/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] testModel/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] testModel/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] gtest</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] gtest/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] gtest/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] gtest/Source Files/gtest-all.cc</name>
+			<type>1</type>
+			<location>/usr/src/gtest/src/gtest-all.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] gtest/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] gtest/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] gtest/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] gtest_main</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] gtest_main/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] gtest_main/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] gtest_main/Source Files/gtest_main.cc</name>
+			<type>1</type>
+			<location>/usr/src/gtest/src/gtest_main.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] gtest_main/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] gtest_main/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] gtest_main/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>

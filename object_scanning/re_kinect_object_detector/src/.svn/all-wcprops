@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/roboearth/repos/!svn/ver/2089/public/tags/latest/object_scanning/re_kinect_object_detector/src
+END
+slam_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/roboearth/repos/!svn/ver/2088/public/tags/latest/object_scanning/re_kinect_object_detector/src/slam_main.cpp
+END
+recognitionmodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/roboearth/repos/!svn/ver/2089/public/tags/latest/object_scanning/re_kinect_object_detector/src/recognitionmodel.cpp
+END
+recognitionmodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/roboearth/repos/!svn/ver/1334/public/tags/latest/object_scanning/re_kinect_object_detector/src/recognitionmodel.h
+END

@@ -1,0 +1,34 @@
+<package>
+  <description brief="RoboEarth's communication interface">
+
+     <p>
+     re_comm is a communication interface to the RoboEarth DB. It provides
+     services to download/upload/update/delete/query action recipes, object
+     models and environments.
+     </p>
+
+     <p>
+     This package is part of RoboEarth (EU FP7, grant 248942).
+     </p>
+  </description>
+  <author>Alexander Perzylo</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://www.ros.org/wiki/re_comm</url>
+  <versioncontrol type="svn" url="https://ipvs.informatik.uni-stuttgart.de/roboearth/repos/release"/>
+
+  <depend package="re_comm_core"/>
+  <depend package="re_ontology"/>
+<!--   <depend package="vision_srvs"/> -->
+  <depend package="mod_vis"/>
+<!--   <depend package="knowrob_cad_models"/> -->
+<!--   <depend package="re_wm_to_knowrob"/> -->
+  <!--depend package="comp_cop"/-->
+
+  <export>
+    <java classpath="${prefix}/bin"/>
+  </export>
+
+</package>
+
+

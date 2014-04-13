@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/roboearth/repos/!svn/ver/2091/public/tags/latest/re_vision/src/3rdparty/DUtilsCV
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/src/3rdparty/DUtilsCV/LICENSE
+END
+GUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_vision/src/3rdparty/DUtilsCV/GUI.cpp
+END
+IO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/src/3rdparty/DUtilsCV/IO.cpp
+END
+Transformations.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/roboearth/repos/!svn/ver/2091/public/tags/latest/re_vision/src/3rdparty/DUtilsCV/Transformations.cpp
+END
+Drawing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/roboearth/repos/!svn/ver/2091/public/tags/latest/re_vision/src/3rdparty/DUtilsCV/Drawing.cpp
+END
+Geometry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_vision/src/3rdparty/DUtilsCV/Geometry.cpp
+END

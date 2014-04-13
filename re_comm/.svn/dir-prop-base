@@ -1,0 +1,21 @@
+K 10
+svn:ignore
+V 86
+bin
+build
+msg_gen
+srv_gen
+java
+oct
+lisp
+recipe*
+.project
+.classpath
+src
+re_obj_model*
+
+K 13
+svn:mergeinfo
+V 32
+/ros_roboearth/re_comm:1246-2257
+END

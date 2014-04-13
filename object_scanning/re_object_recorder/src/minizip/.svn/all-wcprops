@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/roboearth/repos/!svn/ver/1246/public/tags/latest/object_scanning/re_object_recorder/src/minizip
+END
+ioapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/roboearth/repos/!svn/ver/1246/public/tags/latest/object_scanning/re_object_recorder/src/minizip/ioapi.c
+END
+zip.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/roboearth/repos/!svn/ver/1246/public/tags/latest/object_scanning/re_object_recorder/src/minizip/zip.c
+END
+unzip.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/roboearth/repos/!svn/ver/1246/public/tags/latest/object_scanning/re_object_recorder/src/minizip/unzip.c
+END
+crypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/roboearth/repos/!svn/ver/1246/public/tags/latest/object_scanning/re_object_recorder/src/minizip/crypt.h
+END
+ioapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/roboearth/repos/!svn/ver/1246/public/tags/latest/object_scanning/re_object_recorder/src/minizip/ioapi.h
+END
+mztools.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/roboearth/repos/!svn/ver/1246/public/tags/latest/object_scanning/re_object_recorder/src/minizip/mztools.c
+END
+zip.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/roboearth/repos/!svn/ver/1246/public/tags/latest/object_scanning/re_object_recorder/src/minizip/zip.h
+END
+iowin32.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/roboearth/repos/!svn/ver/1246/public/tags/latest/object_scanning/re_object_recorder/src/minizip/iowin32.c
+END
+unzip.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/roboearth/repos/!svn/ver/1246/public/tags/latest/object_scanning/re_object_recorder/src/minizip/unzip.h
+END
+mztools.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/roboearth/repos/!svn/ver/1246/public/tags/latest/object_scanning/re_object_recorder/src/minizip/mztools.h
+END
+iowin32.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/roboearth/repos/!svn/ver/1246/public/tags/latest/object_scanning/re_object_recorder/src/minizip/iowin32.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_srvs
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/mainpage.dox
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/Makefile
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/roboearth/repos/!svn/ver/1435/public/tags/latest/re_srvs/manifest.xml
+END

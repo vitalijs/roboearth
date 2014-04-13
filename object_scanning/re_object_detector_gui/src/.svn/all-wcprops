@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/roboearth/repos/!svn/ver/1462/public/tags/latest/object_scanning/re_object_detector_gui/src
+END
+downloadobjectdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/roboearth/repos/!svn/ver/1246/public/tags/latest/object_scanning/re_object_detector_gui/src/downloadobjectdialog.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/roboearth/repos/!svn/ver/1246/public/tags/latest/object_scanning/re_object_detector_gui/src/main.cpp
+END
+comthread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/roboearth/repos/!svn/ver/1462/public/tags/latest/object_scanning/re_object_detector_gui/src/comthread.cpp
+END
+mainwindow.ui
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/roboearth/repos/!svn/ver/1257/public/tags/latest/object_scanning/re_object_detector_gui/src/mainwindow.ui
+END
+downloadobjectdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/roboearth/repos/!svn/ver/1257/public/tags/latest/object_scanning/re_object_detector_gui/src/downloadobjectdialog.ui
+END
+comthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/roboearth/repos/!svn/ver/1265/public/tags/latest/object_scanning/re_object_detector_gui/src/comthread.h
+END
+mainwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/roboearth/repos/!svn/ver/1337/public/tags/latest/object_scanning/re_object_detector_gui/src/mainwindow.cpp
+END
+downloadobjectdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/roboearth/repos/!svn/ver/1435/public/tags/latest/object_scanning/re_object_detector_gui/src/downloadobjectdialog.cpp
+END
+mainwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/roboearth/repos/!svn/ver/1246/public/tags/latest/object_scanning/re_object_detector_gui/src/mainwindow.h
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/apps/g2o_cli
+END
+g2o.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/apps/g2o_cli/g2o.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/apps/g2o_cli/CMakeLists.txt
+END
+dl_wrapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/apps/g2o_cli/dl_wrapper.cpp
+END
+g2o_common.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/apps/g2o_cli/g2o_common.cpp
+END
+output_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/apps/g2o_cli/output_helper.cpp
+END
+dl_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/apps/g2o_cli/dl_wrapper.h
+END
+g2o_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/apps/g2o_cli/g2o_common.h
+END
+output_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/g2o/apps/g2o_cli/output_helper.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/unsupported/Eigen/src/Polynomials
+END
+PolynomialSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/unsupported/Eigen/src/Polynomials/PolynomialSolver.h
+END
+Companion.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/unsupported/Eigen/src/Polynomials/Companion.h
+END
+PolynomialUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/unsupported/Eigen/src/Polynomials/PolynomialUtils.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_vision/src/g2o/EXTERNAL/eigen3/unsupported/Eigen/src/Polynomials/CMakeLists.txt
+END

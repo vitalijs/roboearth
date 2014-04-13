@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_ontology/examples
+END
+test_re_ontology.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/roboearth/repos/!svn/ver/1246/public/tags/latest/re_ontology/examples/test_re_ontology.py
+END

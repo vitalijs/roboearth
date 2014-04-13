@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_comm_core/lib/httpcomponents-client
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_comm_core/lib/httpcomponents-client/NOTICE
+END
+commons-codec-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_comm_core/lib/httpcomponents-client/commons-codec-1.4.jar
+END
+httpmime-4.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_comm_core/lib/httpcomponents-client/httpmime-4.1.1.jar
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_comm_core/lib/httpcomponents-client/LICENSE
+END
+httpcore-4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_comm_core/lib/httpcomponents-client/httpcore-4.1.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_comm_core/lib/httpcomponents-client/commons-logging-1.1.1.jar
+END
+httpclient-4.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_comm_core/lib/httpcomponents-client/httpclient-4.1.1.jar
+END
+httpclient-cache-4.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/roboearth/repos/!svn/ver/2088/public/tags/latest/re_comm_core/lib/httpcomponents-client/httpclient-cache-4.1.1.jar
+END

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/vitalij/ros/stacks/roboearth/re_vision/build/devel/setup.sh
